@@ -1,0 +1,15 @@
+# Build artifacts
+*.dll
+*.obj
+*.lib
+*.exp
+*.exe
+
+# ESR Runtime
+_RAM_/
+esr_storage/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
